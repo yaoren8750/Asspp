@@ -2,8 +2,5 @@
 // Single source of truth for version numbers
 // CI can modify this file to update version for all configurations
 
-// Marketing version (e.g., 3.0, 3.1)
-MARKETING_VERSION = 4.0.1
-
-// Build number (incremented for each build)
+MARKETING_VERSION = 4.0.2
 CURRENT_PROJECT_VERSION = 0
